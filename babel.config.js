@@ -8,7 +8,6 @@ module.exports = {
         }
       }
     ],
-    '@babel/preset-typescript'
   ],
   plugins: [
     ['module-resolver', {
